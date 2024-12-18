@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rishit Sura</h1>
 <h3 align="center">Tech Enthusiast | SIH'24 Finalist</h3>
-
+<!---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishitsura&label=Profile%20views&color=0e75b6&style=flat" alt="rishitsura" /> </p>
-
+--->
 <p align="left"> <a href="https://twitter.com/rishit_sura" target="blank"><img src="https://img.shields.io/twitter/follow/rishit_sura?logo=twitter&style=for-the-badge" alt="rishit_sura" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
