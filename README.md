@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rishitsura@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lz-FI1s4NfociTmJlSzYcDGelyocGvbg/view?usp=sharing](https://drive.google.com/file/d/1lz-FI1s4NfociTmJlSzYcDGelyocGvbg/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1D4FHyo6uJB52oYVVojARIrUbJTHPGnEx/view?usp=sharing)
 
 - ⚡ Fun fact **I’m basically an explorer—not in the ‘climb mountains’ way, but in the ‘discover new ideas and cool facts’ kind of way. Every day’s an adventure!**
 
