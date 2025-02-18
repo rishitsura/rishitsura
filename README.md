@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishit Sura</h1>
-<h3 align="center">Tech Enthusiast | SIH'24 Finalist</h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=700&vCenter=true&width=435&lines=I'm+a+Tech+Enthusiast;I'm+Learning+ML" alt="Typing SVG" /></a>
+<h3 align="center">Tech Enthusiast | SIH'24 Finalist | GDGC Solution Challenge 2025 Winner</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=500&vCenter=true&width=435&lines=I'm+a+Tech+Enthusiast;I'm+Learning+ML" alt="Typing SVG" /></a>
 <!---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishitsura&label=Profile%20views&color=0e75b6&style=flat" alt="rishitsura" /> </p>
 --->
