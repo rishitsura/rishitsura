@@ -12,7 +12,7 @@
 
 - 👨‍💻 View my portfolio at [rishitsura.me](https://www.rishitsura.me/)
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1D4FHyo6uJB52oYVVojARIrUbJTHPGnEx/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1nUtJhLXlBwFLb0nZcsw8VqNrsSiEV-fk/view?usp=sharing)
 
 - ⚡ Fun fact **I’m basically an explorer—not in the ‘climb mountains’ way, but in the ‘discover new ideas and cool facts’ kind of way. Every day’s an adventure!**
 
