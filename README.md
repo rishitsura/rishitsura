@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishit Sura</h1>
-<h3 align="center">Tech Enthusiast | SIH'24 Finalist | GDGC Solution Challenge 2025 Winner</h3>
+<h3 align="center">Tech Enthusiast | GDGC Solution Challenge 2025 Winner | SIH ’25, ’24 Finalist | Python | Machine Learning | Full Stack</h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=500&vCenter=true&width=435&lines=I'm+a+Tech+Enthusiast;I'm+Learning+ML" alt="Typing SVG" /></a>
 <!---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishitsura&label=Profile%20views&color=0e75b6&style=flat" alt="rishitsura" /> </p>
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **rishitsura@gmail.com**
 
-- 👨‍💻 View my portfolio at [rishitsura.me](https://www.rishitsura.me/)
+- 👨‍💻 View my portfolio at [rishitsura.me](https://rishitsura.vercel.app/)
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1f2inqHWOaj_u-HSsDPIZtB1aQQOxSj8x/view?usp=sharing)
   
