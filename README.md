@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **rishitsura@gmail.com**
 
-- 👨‍💻 View my portfolio at [rishitsura.me](https://rishitsura.vercel.app/)
+- 👨‍💻 View my portfolio at [rishitsura.vercel.app](https://rishitsura.vercel.app/)
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1f2inqHWOaj_u-HSsDPIZtB1aQQOxSj8x/view?usp=sharing)
   
