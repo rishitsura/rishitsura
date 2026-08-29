@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Rishit Sura</h1>
 <h3 align="center">Tech Enthusiast | GDGC Solution Challenge 2025 Winner | SIH ’25, ’24 Finalist | Python | Machine Learning | Full Stack</h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=500&vCenter=true&width=435&lines=I'm+a+Tech+Enthusiast;I'm+Learning+ML" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=500&vCenter=true&width=435&lines=I'm+a+Tech+Enthusiast;Building+with+Agentic+AI" alt="Typing SVG" /></a>
 <!---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishitsura&label=Profile%20views&color=0e75b6&style=flat" alt="rishitsura" /> </p>
 --->
 <p align="left"> <a href="https://twitter.com/rishit_sura" target="blank"><img src="https://img.shields.io/twitter/follow/rishit_sura?logo=twitter&style=for-the-badge" alt="rishit_sura" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning and exploring **Agentic AI**
 
 - 📫 How to reach me **rishitsura@gmail.com**
 
 - 👨‍💻 View my portfolio at [rishitsura.vercel.app](https://rishitsura.vercel.app/)
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1PuNphKsnkHgf0pM8VfAtCx3koDqRK-dE/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/17_s_AlHQOgsG_5ZG3TrWQxcbwxAun9CF/view?usp=sharing)
   
 - ⚡ Fun fact **I’m basically an explorer—not in the ‘climb mountains’ way, but in the ‘discover new ideas and cool facts’ kind of way. Every day’s an adventure!**
 
